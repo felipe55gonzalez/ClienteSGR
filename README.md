@@ -39,7 +39,7 @@ Este proyecto es ideal para escenarios donde se necesita una comunicación de re
 
 1.  **Clonar el Repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/ClienteSGR.git](https://github.com/tu-usuario/ClienteSGR.git)
+    git clone [https://github.com/felipe55gonzalez/ClienteSGR.git](https://github.com/tu-usuario/ClienteSGR.git)
     cd ClienteSGR
     ```
 
