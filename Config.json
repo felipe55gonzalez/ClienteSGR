@@ -1,0 +1,10 @@
+{
+    "ServerUrl": "http://localhost:5137/datahub",
+    "AutoConfigureNetwork": true,
+    "ConfiguredLocalIp": "10.99.0.2",
+    "NetworksToRoute": [
+        "10.99.0.1/32"
+    ],
+    "ClientAlias": "ClienteB",
+    "DefaultPeerAlias": "ClienteA"
+}
