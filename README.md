@@ -131,9 +131,3 @@ Este proyecto solo contiene el cliente. Para un funcionamiento completo, necesit
 ## Licencia
 
 Este proyecto se distribuye bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
----
-
-*Nota: Este README asume que crearás un archivo `LICENSE` (comúnmente MIT para proyectos open source).*
-*Recuerda reemplazar `tu-usuario` con tu nombre de usuario de GitHub cuando clones.*
-*Asegúrate de que el servidor SignalR que uses sea compatible con las estructuras de datos definidas en la carpeta `Models` de este cliente.*
